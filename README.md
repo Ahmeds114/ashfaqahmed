@@ -1,15 +1,15 @@
 # Hi 👋, I'm Ashfaq Ahmed
 
-![GitHub followers](https://img.shields.io/github/followers/your-username?style=social) 
-![Profile Views](https://komarev.com/ghpvc/?username=your-username&color=blue)
+![GitHub followers](https://img.shields.io/github/followers/Ahmeds114?style=social) 
+![Profile Views](https://komarev.com/ghpvc/?username=Ahmeds114&color=blue)
 
 ## 👨‍💻 About Me:
-- 🎓  **Master's in Computer Science** at **Monroe University**
-- 🏢 **Works at** **Synactive**
+- 🎓 **Master's in Computer Science** at **Monroe College**
+- 🏢 **Works at Synactive**
 - 🔥 Passionate about **Software Development, Cloud Deployments & AI Integration**
-- 🚀 Final Project on: **Landscaping Connection Platform** (A Homeowners & Landscapers Platform)
-- 💡 Learning: **AWS Cloud, CAP (SAP)**
-- 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/ashfaq-ahmed-ash-426619107/) | [GitHub](https://github.com/your-username)
+- 🚀 Currently working on: **Landscaping Connection Platform**
+- 💡 Learning: **AWS Cloud, SAP CAP**
+- 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/ashfaq-ahmed-ash-426619107/) | [GitHub](https://github.com/Ahmeds114)
 
 ---
 
@@ -26,12 +26,12 @@
 ---
 
 ## 📈 **GitHub Stats**
-![Ashfaq's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
+![Ashfaq's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ahmeds114&show_icons=true&theme=radical&cache_seconds=1800)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmeds114&layout=compact&theme=radical&langs_count=8)
 
 ---
 
-## 🌱 **What I worked On**
+## 🌱 **My Learning so far**
 🔹 **Landscaping Connection Platform**  
 🔹 **SAP BTP & S/4HANA Integration**  
 🔹 **AWS Cloud Deployments**  
@@ -39,5 +39,5 @@
 ---
 
 ## 📫 **Let's Connect**
-- **GitHub:** [Your GitHub Profile](https://github.com/your-username)
+- **GitHub:** [Ahmeds114](https://github.com/Ahmeds114)
 - **LinkedIn:** [Ashfaq Ahmed](https://www.linkedin.com/in/ashfaq-ahmed-ash-426619107/)
